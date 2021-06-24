@@ -1,4 +1,4 @@
-![Web developer](https://scontent.fpnh22-3.fna.fbcdn.net/v/t1.6435-0/p180x540/199480732_1285399531914228_2673510312786088918_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=XWXSk9b52xYAX_KY6in&_nc_ht=scontent.fpnh22-3.fna&tp=6&oh=41b07c8f4938e34737e856133e3b4754&oe=60D0B543)
+![Web developer](https://i.pinimg.com/originals/f2/0e/2b/f20e2baf0fcb964c9e2dc030ab66d72c.jpg)
 ### I'm John Nguyen - Code lover
 
 I'm John Nguyen is a  web developer from Vietnam. Perspective in my work "programming is not only a job, it is my passion. I always wanted to learn about new technology because that kept me motivated to pursue this job."
