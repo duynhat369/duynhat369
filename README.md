@@ -1,5 +1,5 @@
-![Web developer](https://i.pinimg.com/originals/f2/0e/2b/f20e2baf0fcb964c9e2dc030ab66d72c.jpg)
 ## I'm John Nguyen - Code lover 🇻🇳
+![Web developer](https://i.pinimg.com/originals/f2/0e/2b/f20e2baf0fcb964c9e2dc030ab66d72c.jpg)
 
 >> I'm John Nguyen is a  web developer from Vietnam. Perspective in my work "programming is not only a job, it is my passion. I always wanted to learn about new technology because that kept me motivated to pursue this job."
 > #### "Learn a little every day - change a journey"
