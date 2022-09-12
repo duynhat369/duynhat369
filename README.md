@@ -2,6 +2,7 @@
 ## I'm John Nguyen - Code lover 🇻🇳
 
 >> I'm John Nguyen is a  web developer from Vietnam. Perspective in my work "programming is not only a job, it is my passion. I always wanted to learn about new technology because that kept me motivated to pursue this job."
+> #### "Learn a little every day - change a journey"
 
 ----
 
@@ -9,10 +10,10 @@
 - :fax: contact me: duynhat719@gmail.com
 - :globe_with_meridians: see more about me: **http://johnnguyen-resume.herokuapp.com/**
 
-### "Learn a little every day - change a journey"
 
 #### Skills FE: JAVASCRIPT / TYPESCRIPT / HTML / CSS / GRAPHQL / REST API
 #### Frameworks and libraries: REACTJS / MUI / TAILWINDCSS / BOOTSTRAP / SASS/SCSS / APOLLO CLIENT
+#### Tools: GIT / ALTAIR GRAPHQL CLIENT / POSTMAN / FIGMA
 
 - :computer: Developer at **https://gugotech.com/**
 - :office: Former developer at **https://mismart.ai/**
