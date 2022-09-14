@@ -14,8 +14,8 @@
 
 
 #### Skills FE: JAVASCRIPT / TYPESCRIPT / HTML / CSS / GRAPHQL / REST API
-<img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' alt='js' height='40'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png' alt='ts' height='40'>
+[<img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' alt='js' height='40'>]
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png' alt='ts' height='40'>]
 <img src='https://i0.wp.com/byfeel.info/wp-content/uploads/2015/02/css-html2-e1517475681211.png?fit=400%2C259&ssl=1' alt='html/css' height='40'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png' alt='graphql' height='40'>
 
