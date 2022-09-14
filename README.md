@@ -5,7 +5,7 @@
 > I'm John Nguyen is a  web developer from Vietnam. Perspective in my work "programming is not only a job, it is my passion. I always wanted to learn about new technology because that kept me motivated to pursue this job."
 
 ----
-#### Skills and tools for develop
+#### Skills and tools for develop:
 <p align="left">
  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' alt='js' height='40'>
  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png' alt='ts' height='40'>
@@ -25,13 +25,14 @@
  <img src='https://dashboard.snapcraft.io/site_media/appmedia/2018/08/logo_G5GFyoN.png' alt='altair' height='40'>
 </p>
 
+#### Information:
 - :computer: Developer at **https://gugotech.com/**
 - :office: Former developer at **https://mismart.ai/**
 - :mortar_board: Studied Infomation Technology at [Ho Chi Minh City University of Natural Sciences](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_University_of_Science) graduated 2021
 - :fax: contact me: duynhat719@gmail.com
 - :globe_with_meridians: see more about me: **http://johnnguyen-resume.herokuapp.com/**
 
-##### Social media
+##### Social media:
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/768px-Facebook_Logo_%282019%29.png' alt='facebook' height='40'>](https://www.facebook.com/duyNhatDeveloper/)
 [<img src='https://amadegraphic.com/wp-content/uploads/2022/01/logo-Youtube-PNG.png' alt='youtube' height='40'>](https://www.youtube.com/channel/UC0ZozIy8rxaSkRFmV5ctaZg)  
 
