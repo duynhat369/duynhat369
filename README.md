@@ -30,7 +30,7 @@
 - :office: Former developer at [**MiSmart**](https://mismart.ai/)
 - :mortar_board: Studied Infomation Technology at [Ho Chi Minh City University of Natural Sciences](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_University_of_Science) graduated 2021
 - :fax: contact me: duynhat719@gmail.com
-- :globe_with_meridians: see more about me: **http://johnnguyen-resume.herokuapp.com/**
+- :globe_with_meridians: see more about me: http://johnnguyen-resume.herokuapp.com/
 
 ##### Social media:
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/768px-Facebook_Logo_%282019%29.png' alt='facebook' height='40'>](https://www.facebook.com/duyNhatDeveloper/)
