@@ -15,6 +15,7 @@
 
 #### Skills FE: JAVASCRIPT / TYPESCRIPT / HTML / CSS / GRAPHQL / REST API
 #### Frameworks and libraries: REACTJS / MUI / TAILWINDCSS / BOOTSTRAP / SASS/SCSS / APOLLO CLIENT
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png' alt='reactjs' height='40'>
 #### Tools: GIT / ALTAIR GRAPHQL CLIENT / POSTMAN / FIGMA
 
 
