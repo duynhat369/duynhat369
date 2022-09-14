@@ -8,7 +8,7 @@
 
 - :computer: Developer at **https://gugotech.com/**
 - :office: Former developer at **https://mismart.ai/**
-- :mortar_board: [Studied Infomation Technology at Ho Chi Minh City University of Natural Sciences](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_University_of_Science) graduated 2021
+- :mortar_board: Studied Infomation Technology at [Ho Chi Minh City University of Natural Sciences](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_University_of_Science) graduated 2021
 - :fax: contact me: duynhat719@gmail.com
 - :globe_with_meridians: see more about me: **http://johnnguyen-resume.herokuapp.com/**
 
