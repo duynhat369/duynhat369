@@ -33,7 +33,7 @@
 - :globe_with_meridians: CV: http://johnnguyen-resume.herokuapp.com/
 
 #### Solve the problems:
-[<img src=' https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/1280px-LeetCode_Logo_black_with_text.svg.png' alt='leetcode' height='40'>](https://leetcode.com/duynhat719/) 
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/1280px-LeetCode_Logo_black_with_text.svg.png' alt='leetcode' height='40'>](https://leetcode.com/duynhat719/) 
 
 ##### See more about me:
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/768px-Facebook_Logo_%282019%29.png' alt='facebook' height='40'>](https://www.facebook.com/duyNhatDeveloper/)
