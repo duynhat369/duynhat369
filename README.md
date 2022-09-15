@@ -18,8 +18,7 @@
  <img src='https://cdn-icons-png.flaticon.com/512/5968/5968672.png' alt='bootstrap' height='40'> 
  <img src='https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg' alt='sass' height='40'> 
  <img src='https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci8wOWE1NmNkNDlhNmM2YjM3OWIyN2NkMjg5YjY2ZjcwZT9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.27pPabBKU3mugpyRKVj0AArg3Ys0vO0jHx5TfbAc214' alt='apollo' height='40'> 
-</p>
-<p align="left">
+
  <img src='https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png' alt='git' height='40'> 
  <img src='https://cdn-icons-png.flaticon.com/512/5968/5968705.png' alt='FIGMA' height='40'> 
  <img src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png' alt='POSTMAN' height='40'> 
@@ -33,9 +32,9 @@
 - :fax: Contact me: duynhat719@gmail.com
 - :globe_with_meridians: CV: http://johnnguyen-resume.herokuapp.com/
 
+#### Solve the problems:
+[<img src=' https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/1280px-LeetCode_Logo_black_with_text.svg.png' alt='leetcode' height='40'>](https://leetcode.com/duynhat719/) 
+
 ##### See more about me:
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/768px-Facebook_Logo_%282019%29.png' alt='facebook' height='40'>](https://www.facebook.com/duyNhatDeveloper/)
 [<img src='https://amadegraphic.com/wp-content/uploads/2022/01/logo-Youtube-PNG.png' alt='youtube' height='40'>](https://www.youtube.com/channel/UC0ZozIy8rxaSkRFmV5ctaZg)  
-
-
- 
