@@ -16,7 +16,7 @@
  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png' alt='tailwind' height='40'> 
  <img src='https://cdn-icons-png.flaticon.com/512/5968/5968672.png' alt='bootstrap' height='40'> 
  <img src='https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg' alt='sass' height='40'> 
- <img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fgraphql.fujix.io%2Fapollo-client&psig=AOvVaw3IvW3t9mgyuSP1LvUmW1Ke&ust=1679370260441000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCj_fDL6f0CFQAAAAAdAAAAABAE' alt='apollo' height='40'> 
+ <img src='https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb7sDDE%2FbtqDFq2nl4a%2F3zsEjujQJSpv9GGpyW0te1%2Fimg.png' alt='apollo' height='40'> 
 
  <img src='https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png' alt='git' height='40'> 
  <img src='https://cdn-icons-png.flaticon.com/512/5968/5968705.png' alt='FIGMA' height='40'> 
