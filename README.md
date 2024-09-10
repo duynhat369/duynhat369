@@ -15,7 +15,6 @@
  <img src='https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png' alt='mui' height='40'> 
  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png' alt='tailwind' height='40'> 
  <img src='https://cdn-icons-png.flaticon.com/512/5968/5968672.png' alt='bootstrap' height='40'> 
- <img src='https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg' alt='sass' height='40'> 
  <img src='https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb7sDDE%2FbtqDFq2nl4a%2F3zsEjujQJSpv9GGpyW0te1%2Fimg.png' alt='apollo' height='40'> 
 
  <img src='https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png' alt='git' height='40'> 
@@ -35,5 +34,4 @@
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/1280px-LeetCode_Logo_black_with_text.svg.png' alt='leetcode' height='40'>](https://leetcode.com/duynhat719/) 
 
 ##### See more about me:
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/768px-Facebook_Logo_%282019%29.png' alt='facebook' height='40'>](https://www.facebook.com/duyNhatDeveloper/)
-[<img src='https://amadegraphic.com/wp-content/uploads/2022/01/logo-Youtube-PNG.png' alt='youtube' height='40'>](https://www.youtube.com/channel/UC0ZozIy8rxaSkRFmV5ctaZg)  
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/768px-Facebook_Logo_%282019%29.png' alt='facebook' height='40'>](https://www.facebook.com/duyNhatDeveloper/) 
