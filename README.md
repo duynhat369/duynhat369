@@ -12,7 +12,7 @@
  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png' alt='graphql' height='40'> 
 
  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png' alt='reactjs' height='40'> 
- <img src='https://www.google.com/url?sa=i&url=http%3A%2F%2Ffigmaresource.com%2Fshadcn-ui-logo-png-vector%2F&psig=AOvVaw3Rus6TFTVs-lsbusYIt92c&ust=1749882484766000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCgt7Li7Y0DFQAAAAAdAAAAABAE' alt='shadcn' height='40'> 
+ <img src='https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/20161105/shadcn-ui-logo-EF735EC0E5-seeklogo.com.png' alt='shadcn' height='40'> 
  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png' alt='tailwind' height='40'> 
  <img src='https://cdn-icons-png.flaticon.com/512/5968/5968672.png' alt='bootstrap' height='40'> 
  <img src='https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb7sDDE%2FbtqDFq2nl4a%2F3zsEjujQJSpv9GGpyW0te1%2Fimg.png' alt='apollo' height='40'> 
