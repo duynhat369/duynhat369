@@ -1,7 +1,7 @@
 ## I'm John Nguyen - Code lover 🇻🇳
 
 >> #### "Learn a little every day - change a journey"
-> I'm John Nguyen is a  web developer from Vietnam. Perspective in my work "programming is not only a job, it is my passion. I always wanted to learn about new technology because that kept me motivated to pursue this job."
+> I'm John Nguyen is a  web developer from Ho Chi Minh, Vietnam. Perspective in my work "programming is not only a job, it is my passion. I always wanted to learn about new technology because that kept me motivated to pursue this job."
 
 ----
 #### Skills and tools for develop:
