@@ -11,8 +11,8 @@
  <img src='https://i0.wp.com/byfeel.info/wp-content/uploads/2015/02/css-html2-e1517475681211.png?fit=400%2C259&ssl=1' alt='html/css' height='40'> 
  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png' alt='graphql' height='40'> 
 
- <img src='https://www.svgrepo.com/show/354112/nextjs.svg' alt='reactjs' height='40'> 
- <img src='https://static-00.iconduck.com/assets.00/nextjs-icon-1024x617-rl2bcqfj.png' alt='nextjs' height='40'> 
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png' alt='reactjs' height='40'> 
+ <img src='https://www.svgrepo.com/show/354112/nextjs.svg' alt='nextjs' height='40'> 
  <img src='https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/20161105/shadcn-ui-logo-EF735EC0E5-seeklogo.com.png' alt='shadcn' height='40'> 
  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png' alt='tailwind' height='40'>
  <img src='https://img.icons8.com/?size=512&id=gFw7X5Tbl3ss&format=png' alt='mui' height='40'>  
