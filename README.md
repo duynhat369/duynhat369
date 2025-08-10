@@ -11,8 +11,8 @@
  <img src='https://i0.wp.com/byfeel.info/wp-content/uploads/2015/02/css-html2-e1517475681211.png?fit=400%2C259&ssl=1' alt='html/css' height='40'> 
  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png' alt='graphql' height='40'> 
 
- <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png' alt='reactjs' height='40'> 
- <img src='https://static-00.iconduck.com/assets.00/nextjs-icon-1024x617-rl2bcqfj.png' alt='reactjs' height='40'> 
+ <img src='https://www.svgrepo.com/show/354112/nextjs.svg' alt='reactjs' height='40'> 
+ <img src='https://static-00.iconduck.com/assets.00/nextjs-icon-1024x617-rl2bcqfj.png' alt='nextjs' height='40'> 
  <img src='https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/20161105/shadcn-ui-logo-EF735EC0E5-seeklogo.com.png' alt='shadcn' height='40'> 
  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png' alt='tailwind' height='40'>
  <img src='https://img.icons8.com/?size=512&id=gFw7X5Tbl3ss&format=png' alt='mui' height='40'>  
@@ -31,9 +31,6 @@
 - :mortar_board: Studied Infomation Technology at [Ho Chi Minh City University of Natural Sciences](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_University_of_Science) graduated 2021
 - :fax: Contact me: duynhat719@gmail.com
 - :globe_with_meridians: Blog: [https://www.trangcuanhat.com/](https://www.trangcuanhat.com/)
-
-#### Solve the problems:
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/1280px-LeetCode_Logo_black_with_text.svg.png' alt='leetcode' height='40'>](https://leetcode.com/duynhat719/) 
 
 ##### See more about me:
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/768px-Facebook_Logo_%282019%29.png' alt='facebook' height='40'>](https://www.facebook.com/duyNhatDeveloper/) 
