@@ -30,7 +30,7 @@
 - :office: Former developer at [**MiSmart**](https://mismart.ai/)
 - :mortar_board: Studied Infomation Technology at [Ho Chi Minh City University of Natural Sciences](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_University_of_Science) graduated 2021
 - :fax: Contact me: duynhat719@gmail.com
-- :globe_with_meridians: Blog: [http://johnnguyen-resume.herokuapp.com/](https://www.trangcuanhat.com/)
+- :globe_with_meridians: Blog: [https://www.trangcuanhat.com/](https://www.trangcuanhat.com/)
 
 #### Solve the problems:
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/1280px-LeetCode_Logo_black_with_text.svg.png' alt='leetcode' height='40'>](https://leetcode.com/duynhat719/) 
